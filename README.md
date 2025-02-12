@@ -8,6 +8,7 @@ This repository contains a Jupyter Notebook that demonstrates key Object-Oriente
   - One class owns another class.
   - The owned class does not have access to private attributes of the owner class.
   - Demonstrates usage of getter methods to access private attributes.
+    
 - **Inheritance ("Is-a" Relationship)**
   - A class can inherit from another class.
   - Child class inherits methods and attributes of Parent class.
